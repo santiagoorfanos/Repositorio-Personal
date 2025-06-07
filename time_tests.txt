@@ -1,0 +1,2000 @@
+M = 5 , N = 5 :
+Gauss: 0[ms]
+LU: 0[ms]
+Gauss (Banda): 0[ms]
+LU (Banda): 0[ms]
+M = 5 , N = 10 :
+Gauss: 1[ms]
+LU: 0[ms]
+Gauss (Banda): 0[ms]
+LU (Banda): 1[ms]
+M = 5 , N = 15 :
+Gauss: 2[ms]
+LU: 1[ms]
+Gauss (Banda): 1[ms]
+LU (Banda): 1[ms]
+M = 5 , N = 20 :
+Gauss: 4[ms]
+LU: 2[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 1[ms]
+M = 5 , N = 25 :
+Gauss: 8[ms]
+LU: 3[ms]
+Gauss (Banda): 3[ms]
+LU (Banda): 1[ms]
+M = 5 , N = 30 :
+Gauss: 13[ms]
+LU: 4[ms]
+Gauss (Banda): 4[ms]
+LU (Banda): 2[ms]
+M = 5 , N = 35 :
+Gauss: 20[ms]
+LU: 5[ms]
+Gauss (Banda): 7[ms]
+LU (Banda): 3[ms]
+M = 5 , N = 40 :
+Gauss: 26[ms]
+LU: 8[ms]
+Gauss (Banda): 9[ms]
+LU (Banda): 4[ms]
+M = 5 , N = 45 :
+Gauss: 37[ms]
+LU: 10[ms]
+Gauss (Banda): 11[ms]
+LU (Banda): 5[ms]
+M = 5 , N = 50 :
+Gauss: 50[ms]
+LU: 12[ms]
+Gauss (Banda): 15[ms]
+LU (Banda): 5[ms]
+M = 5 , N = 55 :
+Gauss: 62[ms]
+LU: 16[ms]
+Gauss (Banda): 20[ms]
+LU (Banda): 7[ms]
+M = 5 , N = 60 :
+Gauss: 84[ms]
+LU: 21[ms]
+Gauss (Banda): 27[ms]
+LU (Banda): 9[ms]
+M = 5 , N = 65 :
+Gauss: 101[ms]
+LU: 24[ms]
+Gauss (Banda): 32[ms]
+LU (Banda): 10[ms]
+M = 5 , N = 70 :
+Gauss: 124[ms]
+LU: 32[ms]
+Gauss (Banda): 76[ms]
+LU (Banda): 13[ms]
+M = 5 , N = 75 :
+Gauss: 166[ms]
+LU: 36[ms]
+Gauss (Banda): 48[ms]
+LU (Banda): 14[ms]
+M = 5 , N = 80 :
+Gauss: 181[ms]
+LU: 43[ms]
+Gauss (Banda): 57[ms]
+LU (Banda): 19[ms]
+M = 5 , N = 85 :
+Gauss: 280[ms]
+LU: 53[ms]
+Gauss (Banda): 75[ms]
+LU (Banda): 23[ms]
+M = 5 , N = 90 :
+Gauss: 261[ms]
+LU: 61[ms]
+Gauss (Banda): 98[ms]
+LU (Banda): 28[ms]
+M = 5 , N = 95 :
+Gauss: 357[ms]
+LU: 82[ms]
+Gauss (Banda): 121[ms]
+LU (Banda): 34[ms]
+M = 5 , N = 100 :
+Gauss: 372[ms]
+LU: 91[ms]
+Gauss (Banda): 118[ms]
+LU (Banda): 36[ms]
+M = 10 , N = 5 :
+Gauss: 2[ms]
+LU: 1[ms]
+Gauss (Banda): 0[ms]
+LU (Banda): 0[ms]
+M = 10 , N = 10 :
+Gauss: 10[ms]
+LU: 3[ms]
+Gauss (Banda): 1[ms]
+LU (Banda): 1[ms]
+M = 10 , N = 15 :
+Gauss: 26[ms]
+LU: 6[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 3[ms]
+M = 10 , N = 20 :
+Gauss: 60[ms]
+LU: 17[ms]
+Gauss (Banda): 6[ms]
+LU (Banda): 5[ms]
+M = 10 , N = 25 :
+Gauss: 176[ms]
+LU: 31[ms]
+Gauss (Banda): 8[ms]
+LU (Banda): 6[ms]
+M = 10 , N = 30 :
+Gauss: 198[ms]
+LU: 43[ms]
+Gauss (Banda): 13[ms]
+LU (Banda): 8[ms]
+M = 10 , N = 35 :
+Gauss: 294[ms]
+LU: 66[ms]
+Gauss (Banda): 19[ms]
+LU (Banda): 20[ms]
+M = 10 , N = 40 :
+Gauss: 423[ms]
+LU: 92[ms]
+Gauss (Banda): 27[ms]
+LU (Banda): 16[ms]
+M = 10 , N = 45 :
+Gauss: 600[ms]
+LU: 136[ms]
+Gauss (Banda): 39[ms]
+LU (Banda): 20[ms]
+M = 10 , N = 50 :
+Gauss: 801[ms]
+LU: 178[ms]
+Gauss (Banda): 50[ms]
+LU (Banda): 25[ms]
+M = 10 , N = 55 :
+Gauss: 1137[ms]
+LU: 267[ms]
+Gauss (Banda): 69[ms]
+LU (Banda): 33[ms]
+M = 10 , N = 60 :
+Gauss: 1367[ms]
+LU: 303[ms]
+Gauss (Banda): 87[ms]
+LU (Banda): 40[ms]
+M = 10 , N = 65 :
+Gauss: 1758[ms]
+LU: 379[ms]
+Gauss (Banda): 109[ms]
+LU (Banda): 46[ms]
+M = 10 , N = 70 :
+Gauss: 2348[ms]
+LU: 454[ms]
+Gauss (Banda): 130[ms]
+LU (Banda): 49[ms]
+M = 10 , N = 75 :
+Gauss: 2605[ms]
+LU: 551[ms]
+Gauss (Banda): 157[ms]
+LU (Banda): 59[ms]
+M = 10 , N = 80 :
+Gauss: 3315[ms]
+LU: 671[ms]
+Gauss (Banda): 193[ms]
+LU (Banda): 68[ms]
+M = 10 , N = 85 :
+Gauss: 3780[ms]
+LU: 803[ms]
+Gauss (Banda): 232[ms]
+LU (Banda): 79[ms]
+M = 10 , N = 90 :
+Gauss: 4489[ms]
+LU: 930[ms]
+Gauss (Banda): 265[ms]
+LU (Banda): 91[ms]
+M = 10 , N = 95 :
+Gauss: 5236[ms]
+LU: 1111[ms]
+Gauss (Banda): 310[ms]
+LU (Banda): 103[ms]
+M = 10 , N = 100 :
+Gauss: 6084[ms]
+LU: 1283[ms]
+Gauss (Banda): 359[ms]
+LU (Banda): 120[ms]
+M = 15 , N = 5 :
+Gauss: 5[ms]
+LU: 1[ms]
+Gauss (Banda): 0[ms]
+LU (Banda): 1[ms]
+M = 15 , N = 10 :
+Gauss: 31[ms]
+LU: 7[ms]
+Gauss (Banda): 1[ms]
+LU (Banda): 1[ms]
+M = 15 , N = 15 :
+Gauss: 100[ms]
+LU: 23[ms]
+Gauss (Banda): 4[ms]
+LU (Banda): 3[ms]
+M = 15 , N = 20 :
+Gauss: 225[ms]
+LU: 49[ms]
+Gauss (Banda): 7[ms]
+LU (Banda): 6[ms]
+M = 15 , N = 25 :
+Gauss: 432[ms]
+LU: 92[ms]
+Gauss (Banda): 13[ms]
+LU (Banda): 10[ms]
+M = 15 , N = 30 :
+Gauss: 731[ms]
+LU: 156[ms]
+Gauss (Banda): 21[ms]
+LU (Banda): 15[ms]
+M = 15 , N = 35 :
+Gauss: 1154[ms]
+LU: 245[ms]
+Gauss (Banda): 32[ms]
+LU (Banda): 21[ms]
+M = 15 , N = 40 :
+Gauss: 1705[ms]
+LU: 357[ms]
+Gauss (Banda): 48[ms]
+LU (Banda): 30[ms]
+M = 15 , N = 45 :
+Gauss: 2396[ms]
+LU: 509[ms]
+Gauss (Banda): 68[ms]
+LU (Banda): 39[ms]
+M = 15 , N = 50 :
+Gauss: 3278[ms]
+LU: 683[ms]
+Gauss (Banda): 90[ms]
+LU (Banda): 48[ms]
+M = 15 , N = 55 :
+Gauss: 4358[ms]
+LU: 906[ms]
+Gauss (Banda): 117[ms]
+LU (Banda): 61[ms]
+M = 15 , N = 60 :
+Gauss: 5651[ms]
+LU: 1191[ms]
+Gauss (Banda): 150[ms]
+LU (Banda): 72[ms]
+M = 15 , N = 65 :
+Gauss: 7201[ms]
+LU: 1506[ms]
+Gauss (Banda): 186[ms]
+LU (Banda): 87[ms]
+M = 15 , N = 70 :
+Gauss: 8986[ms]
+LU: 1877[ms]
+Gauss (Banda): 230[ms]
+LU (Banda): 112[ms]
+M = 15 , N = 75 :
+Gauss: 11059[ms]
+LU: 2306[ms]
+Gauss (Banda): 278[ms]
+LU (Banda): 124[ms]
+M = 15 , N = 80 :
+Gauss: 13513[ms]
+LU: 2790[ms]
+Gauss (Banda): 333[ms]
+LU (Banda): 146[ms]
+M = 15 , N = 85 :
+Gauss: 16180[ms]
+LU: 3362[ms]
+Gauss (Banda): 396[ms]
+LU (Banda): 166[ms]
+M = 15 , N = 90 :
+Gauss: 19194[ms]
+LU: 3991[ms]
+Gauss (Banda): 469[ms]
+LU (Banda): 188[ms]
+M = 15 , N = 95 :
+Gauss: 22527[ms]
+LU: 4664[ms]
+Gauss (Banda): 550[ms]
+LU (Banda): 214[ms]
+M = 15 , N = 100 :
+Gauss: 26166[ms]
+LU: 5424[ms]
+Gauss (Banda): 635[ms]
+LU (Banda): 255[ms]
+M = 20 , N = 5 :
+Gauss: 12[ms]
+LU: 3[ms]
+Gauss (Banda): 0[ms]
+LU (Banda): 1[ms]
+M = 20 , N = 10 :
+Gauss: 81[ms]
+LU: 18[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 2[ms]
+M = 20 , N = 15 :
+Gauss: 253[ms]
+LU: 57[ms]
+Gauss (Banda): 5[ms]
+LU (Banda): 6[ms]
+M = 20 , N = 20 :
+Gauss: 585[ms]
+LU: 124[ms]
+Gauss (Banda): 11[ms]
+LU (Banda): 12[ms]
+M = 20 , N = 25 :
+Gauss: 1134[ms]
+LU: 236[ms]
+Gauss (Banda): 22[ms]
+LU (Banda): 18[ms]
+M = 20 , N = 30 :
+Gauss: 1904[ms]
+LU: 400[ms]
+Gauss (Banda): 35[ms]
+LU (Banda): 28[ms]
+M = 20 , N = 35 :
+Gauss: 4021[ms]
+LU: 631[ms]
+Gauss (Banda): 51[ms]
+LU (Banda): 38[ms]
+M = 20 , N = 40 :
+Gauss: 4447[ms]
+LU: 935[ms]
+Gauss (Banda): 74[ms]
+LU (Banda): 51[ms]
+M = 20 , N = 45 :
+Gauss: 6366[ms]
+LU: 1333[ms]
+Gauss (Banda): 100[ms]
+LU (Banda): 64[ms]
+M = 20 , N = 50 :
+Gauss: 8748[ms]
+LU: 1817[ms]
+Gauss (Banda): 138[ms]
+LU (Banda): 83[ms]
+M = 20 , N = 55 :
+Gauss: 11586[ms]
+LU: 2467[ms]
+Gauss (Banda): 176[ms]
+LU (Banda): 102[ms]
+M = 20 , N = 60 :
+Gauss: 15168[ms]
+LU: 3133[ms]
+Gauss (Banda): 221[ms]
+LU (Banda): 126[ms]
+M = 20 , N = 65 :
+Gauss: 19221[ms]
+LU: 3999[ms]
+Gauss (Banda): 274[ms]
+LU (Banda): 155[ms]
+M = 20 , N = 70 :
+Gauss: 23893[ms]
+LU: 4939[ms]
+Gauss (Banda): 342[ms]
+LU (Banda): 176[ms]
+M = 20 , N = 75 :
+Gauss: 29544[ms]
+LU: 6115[ms]
+Gauss (Banda): 415[ms]
+LU (Banda): 227[ms]
+M = 20 , N = 80 :
+Gauss: 35665[ms]
+LU: 7337[ms]
+Gauss (Banda): 491[ms]
+LU (Banda): 236[ms]
+M = 20 , N = 85 :
+Gauss: 42764[ms]
+LU: 8807[ms]
+Gauss (Banda): 594[ms]
+LU (Banda): 263[ms]
+M = 20 , N = 90 :
+Gauss: 50621[ms]
+LU: 10356[ms]
+Gauss (Banda): 675[ms]
+LU (Banda): 306[ms]
+M = 20 , N = 95 :
+Gauss: 59385[ms]
+LU: 12075[ms]
+Gauss (Banda): 799[ms]
+LU (Banda): 346[ms]
+M = 20 , N = 100 :
+Gauss: 68764[ms]
+LU: 14026[ms]
+Gauss (Banda): 918[ms]
+LU (Banda): 394[ms]
+M = 25 , N = 5 :
+Gauss: 24[ms]
+LU: 6[ms]
+Gauss (Banda): 1[ms]
+LU (Banda): 1[ms]
+M = 25 , N = 10 :
+Gauss: 160[ms]
+LU: 35[ms]
+Gauss (Banda): 3[ms]
+LU (Banda): 3[ms]
+M = 25 , N = 15 :
+Gauss: 516[ms]
+LU: 112[ms]
+Gauss (Banda): 7[ms]
+LU (Banda): 7[ms]
+M = 25 , N = 20 :
+Gauss: 1188[ms]
+LU: 253[ms]
+Gauss (Banda): 15[ms]
+LU (Banda): 15[ms]
+M = 25 , N = 25 :
+Gauss: 2281[ms]
+LU: 475[ms]
+Gauss (Banda): 29[ms]
+LU (Banda): 25[ms]
+M = 25 , N = 30 :
+Gauss: 3886[ms]
+LU: 804[ms]
+Gauss (Banda): 49[ms]
+LU (Banda): 38[ms]
+M = 25 , N = 35 :
+Gauss: 6215[ms]
+LU: 1302[ms]
+Gauss (Banda): 69[ms]
+LU (Banda): 49[ms]
+M = 25 , N = 40 :
+Gauss: 9286[ms]
+LU: 1946[ms]
+Gauss (Banda): 97[ms]
+LU (Banda): 65[ms]
+M = 25 , N = 45 :
+Gauss: 13284[ms]
+LU: 2724[ms]
+Gauss (Banda): 135[ms]
+LU (Banda): 86[ms]
+M = 25 , N = 50 :
+Gauss: 18140[ms]
+LU: 3740[ms]
+Gauss (Banda): 178[ms]
+LU (Banda): 102[ms]
+M = 25 , N = 55 :
+Gauss: 24137[ms]
+LU: 4964[ms]
+Gauss (Banda): 231[ms]
+LU (Banda): 134[ms]
+M = 25 , N = 60 :
+Gauss: 31081[ms]
+LU: 6385[ms]
+Gauss (Banda): 288[ms]
+LU (Banda): 168[ms]
+M = 25 , N = 65 :
+Gauss: 39822[ms]
+LU: 8165[ms]
+Gauss (Banda): 367[ms]
+LU (Banda): 225[ms]
+M = 25 , N = 70 :
+Gauss: 49320[ms]
+LU: 10092[ms]
+Gauss (Banda): 440[ms]
+LU (Banda): 251[ms]
+M = 25 , N = 75 :
+Gauss: 60340[ms]
+LU: 12415[ms]
+Gauss (Banda): 542[ms]
+LU (Banda): 315[ms]
+M = 25 , N = 80 :
+Gauss: 73299[ms]
+LU: 14973[ms]
+Gauss (Banda): 635[ms]
+LU (Banda): 335[ms]
+M = 25 , N = 85 :
+Gauss: 87737[ms]
+LU: 17849[ms]
+Gauss (Banda): 765[ms]
+LU (Banda): 399[ms]
+M = 25 , N = 90 :
+Gauss: 104471[ms]
+LU: 21248[ms]
+Gauss (Banda): 937[ms]
+LU (Banda): 542[ms]
+M = 25 , N = 95 :
+Gauss: >120000 [ms]
+LU: 24931[ms]
+Gauss (Banda): 1103[ms]
+LU (Banda): 590[ms]
+M = 25 , N = 100 :
+Gauss: >120000 [ms]
+LU: 28942[ms]
+Gauss (Banda): 1292[ms]
+LU (Banda): 666[ms]
+M = 30 , N = 5 :
+Gauss: 40[ms]
+LU: 9[ms]
+Gauss (Banda): 1[ms]
+LU (Banda): 1[ms]
+M = 30 , N = 10 :
+Gauss: 282[ms]
+LU: 62[ms]
+Gauss (Banda): 4[ms]
+LU (Banda): 4[ms]
+M = 30 , N = 15 :
+Gauss: 913[ms]
+LU: 191[ms]
+Gauss (Banda): 10[ms]
+LU (Banda): 12[ms]
+M = 30 , N = 20 :
+Gauss: 2102[ms]
+LU: 435[ms]
+Gauss (Banda): 23[ms]
+LU (Banda): 22[ms]
+M = 30 , N = 25 :
+Gauss: 4061[ms]
+LU: 848[ms]
+Gauss (Banda): 38[ms]
+LU (Banda): 34[ms]
+M = 30 , N = 30 :
+Gauss: 7060[ms]
+LU: 1476[ms]
+Gauss (Banda): 60[ms]
+LU (Banda): 51[ms]
+M = 30 , N = 35 :
+Gauss: 11158[ms]
+LU: 2301[ms]
+Gauss (Banda): 92[ms]
+LU (Banda): 72[ms]
+M = 30 , N = 40 :
+Gauss: 16706[ms]
+LU: 3460[ms]
+Gauss (Banda): 127[ms]
+LU (Banda): 98[ms]
+M = 30 , N = 45 :
+Gauss: 23776[ms]
+LU: 4901[ms]
+Gauss (Banda): 171[ms]
+LU (Banda): 128[ms]
+M = 30 , N = 50 :
+Gauss: 32556[ms]
+LU: 6694[ms]
+Gauss (Banda): 228[ms]
+LU (Banda): 162[ms]
+M = 30 , N = 55 :
+Gauss: 43175[ms]
+LU: 8870[ms]
+Gauss (Banda): 298[ms]
+LU (Banda): 215[ms]
+M = 30 , N = 60 :
+Gauss: 55817[ms]
+LU: 11452[ms]
+Gauss (Banda): 391[ms]
+LU (Banda): 250[ms]
+M = 30 , N = 65 :
+Gauss: 70989[ms]
+LU: 14480[ms]
+Gauss (Banda): 462[ms]
+LU (Banda): 299[ms]
+M = 30 , N = 70 :
+Gauss: 88351[ms]
+LU: 18056[ms]
+Gauss (Banda): 569[ms]
+LU (Banda): 361[ms]
+M = 30 , N = 75 :
+Gauss: 109229[ms]
+LU: 22159[ms]
+Gauss (Banda): 750[ms]
+LU (Banda): 489[ms]
+M = 30 , N = 80 :
+Gauss: >120000 [ms]
+LU: 26817[ms]
+Gauss (Banda): 893[ms]
+LU (Banda): 569[ms]
+M = 30 , N = 85 :
+Gauss: >120000 [ms]
+LU: 32131[ms]
+Gauss (Banda): 1056[ms]
+LU (Banda): 659[ms]
+M = 30 , N = 90 :
+Gauss: >120000 [ms]
+LU: 38332[ms]
+Gauss (Banda): 1218[ms]
+LU (Banda): 743[ms]
+M = 30 , N = 95 :
+Gauss: >120000 [ms]
+LU: 45059[ms]
+Gauss (Banda): 1391[ms]
+LU (Banda): 884[ms]
+M = 30 , N = 100 :
+Gauss: >120000 [ms]
+LU: 53095[ms]
+Gauss (Banda): 1606[ms]
+LU (Banda): 926[ms]
+M = 35 , N = 5 :
+Gauss: 62[ms]
+LU: 14[ms]
+Gauss (Banda): 1[ms]
+LU (Banda): 2[ms]
+M = 35 , N = 10 :
+Gauss: 456[ms]
+LU: 95[ms]
+Gauss (Banda): 5[ms]
+LU (Banda): 6[ms]
+M = 35 , N = 15 :
+Gauss: 1483[ms]
+LU: 312[ms]
+Gauss (Banda): 14[ms]
+LU (Banda): 16[ms]
+M = 35 , N = 20 :
+Gauss: 3419[ms]
+LU: 705[ms]
+Gauss (Banda): 29[ms]
+LU (Banda): 29[ms]
+M = 35 , N = 25 :
+Gauss: 6692[ms]
+LU: 1387[ms]
+Gauss (Banda): 48[ms]
+LU (Banda): 45[ms]
+M = 35 , N = 30 :
+Gauss: 11548[ms]
+LU: 2374[ms]
+Gauss (Banda): 76[ms]
+LU (Banda): 66[ms]
+M = 35 , N = 35 :
+Gauss: 18329[ms]
+LU: 3797[ms]
+Gauss (Banda): 116[ms]
+LU (Banda): 94[ms]
+M = 35 , N = 40 :
+Gauss: 27305[ms]
+LU: 5576[ms]
+Gauss (Banda): 160[ms]
+LU (Banda): 125[ms]
+M = 35 , N = 45 :
+Gauss: 38843[ms]
+LU: 8004[ms]
+Gauss (Banda): 213[ms]
+LU (Banda): 186[ms]
+M = 35 , N = 50 :
+Gauss: 52956[ms]
+LU: 10831[ms]
+Gauss (Banda): 284[ms]
+LU (Banda): 218[ms]
+M = 35 , N = 55 :
+Gauss: 70363[ms]
+LU: 14300[ms]
+Gauss (Banda): 368[ms]
+LU (Banda): 276[ms]
+M = 35 , N = 60 :
+Gauss: 91317[ms]
+LU: 18555[ms]
+Gauss (Banda): 464[ms]
+LU (Banda): 328[ms]
+M = 35 , N = 65 :
+Gauss: 118003[ms]
+LU: 23776[ms]
+Gauss (Banda): 644[ms]
+LU (Banda): 483[ms]
+M = 35 , N = 70 :
+Gauss: >120000 [ms]
+LU: 29438[ms]
+Gauss (Banda): 780[ms]
+LU (Banda): 565[ms]
+M = 35 , N = 75 :
+Gauss: >120000 [ms]
+LU: 36457[ms]
+Gauss (Banda): 908[ms]
+LU (Banda): 661[ms]
+M = 35 , N = 80 :
+Gauss: >120000 [ms]
+LU: 43983[ms]
+Gauss (Banda): 1067[ms]
+LU (Banda): 767[ms]
+M = 35 , N = 85 :
+Gauss: >120000 [ms]
+LU: 52915[ms]
+Gauss (Banda): 1247[ms]
+LU (Banda): 863[ms]
+M = 35 , N = 90 :
+Gauss: >120000 [ms]
+LU: 62994[ms]
+Gauss (Banda): 1507[ms]
+LU (Banda): 998[ms]
+M = 35 , N = 95 :
+Gauss: >120000 [ms]
+LU: 74008[ms]
+Gauss (Banda): 1701[ms]
+LU (Banda): 1150[ms]
+M = 35 , N = 100 :
+Gauss: >120000 [ms]
+LU: 86481[ms]
+Gauss (Banda): 1988[ms]
+LU (Banda): 1284[ms]
+M = 40 , N = 5 :
+Gauss: 91[ms]
+LU: 20[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 3[ms]
+M = 40 , N = 10 :
+Gauss: 678[ms]
+LU: 145[ms]
+Gauss (Banda): 8[ms]
+LU (Banda): 8[ms]
+M = 40 , N = 15 :
+Gauss: 2225[ms]
+LU: 458[ms]
+Gauss (Banda): 18[ms]
+LU (Banda): 22[ms]
+M = 40 , N = 20 :
+Gauss: 6718[ms]
+LU: 1083[ms]
+Gauss (Banda): 36[ms]
+LU (Banda): 38[ms]
+M = 40 , N = 25 :
+Gauss: 10191[ms]
+LU: 2116[ms]
+Gauss (Banda): 62[ms]
+LU (Banda): 61[ms]
+M = 40 , N = 30 :
+Gauss: 17613[ms]
+LU: 3622[ms]
+Gauss (Banda): 95[ms]
+LU (Banda): 88[ms]
+M = 40 , N = 35 :
+Gauss: 27915[ms]
+LU: 5738[ms]
+Gauss (Banda): 140[ms]
+LU (Banda): 121[ms]
+M = 40 , N = 40 :
+Gauss: 41598[ms]
+LU: 8498[ms]
+Gauss (Banda): 194[ms]
+LU (Banda): 162[ms]
+M = 40 , N = 45 :
+Gauss: 58875[ms]
+LU: 12036[ms]
+Gauss (Banda): 260[ms]
+LU (Banda): 213[ms]
+M = 40 , N = 50 :
+Gauss: 80469[ms]
+LU: 16391[ms]
+Gauss (Banda): 347[ms]
+LU (Banda): 278[ms]
+M = 40 , N = 55 :
+Gauss: 107454[ms]
+LU: 21817[ms]
+Gauss (Banda): 511[ms]
+LU (Banda): 429[ms]
+M = 40 , N = 60 :
+Gauss: >120000 [ms]
+LU: 28305[ms]
+Gauss (Banda): 613[ms]
+LU (Banda): 540[ms]
+M = 40 , N = 65 :
+Gauss: >120000 [ms]
+LU: 35975[ms]
+Gauss (Banda): 771[ms]
+LU (Banda): 616[ms]
+M = 40 , N = 70 :
+Gauss: >120000 [ms]
+LU: 44613[ms]
+Gauss (Banda): 926[ms]
+LU (Banda): 739[ms]
+M = 40 , N = 75 :
+Gauss: >120000 [ms]
+LU: 55598[ms]
+Gauss (Banda): 1094[ms]
+LU (Banda): 816[ms]
+M = 40 , N = 80 :
+Gauss: >120000 [ms]
+LU: 67946[ms]
+Gauss (Banda): 1304[ms]
+LU (Banda): 962[ms]
+M = 40 , N = 85 :
+Gauss: >120000 [ms]
+LU: 81707[ms]
+Gauss (Banda): 1517[ms]
+LU (Banda): 1150[ms]
+M = 40 , N = 90 :
+Gauss: >120000 [ms]
+LU: 98793[ms]
+Gauss (Banda): 1776[ms]
+LU (Banda): 1302[ms]
+M = 40 , N = 95 :
+Gauss: >120000 [ms]
+LU: 115878[ms]
+Gauss (Banda): 2114[ms]
+LU (Banda): 1462[ms]
+M = 40 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2371[ms]
+LU (Banda): 1633[ms]
+M = 45 , N = 5 :
+Gauss: 149[ms]
+LU: 29[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 2[ms]
+M = 45 , N = 10 :
+Gauss: 972[ms]
+LU: 205[ms]
+Gauss (Banda): 8[ms]
+LU (Banda): 11[ms]
+M = 45 , N = 15 :
+Gauss: 3192[ms]
+LU: 669[ms]
+Gauss (Banda): 23[ms]
+LU (Banda): 28[ms]
+M = 45 , N = 20 :
+Gauss: 7561[ms]
+LU: 1581[ms]
+Gauss (Banda): 44[ms]
+LU (Banda): 49[ms]
+M = 45 , N = 25 :
+Gauss: 14830[ms]
+LU: 3060[ms]
+Gauss (Banda): 73[ms]
+LU (Banda): 73[ms]
+M = 45 , N = 30 :
+Gauss: 25509[ms]
+LU: 5234[ms]
+Gauss (Banda): 115[ms]
+LU (Banda): 115[ms]
+M = 45 , N = 35 :
+Gauss: 40727[ms]
+LU: 8289[ms]
+Gauss (Banda): 168[ms]
+LU (Banda): 157[ms]
+M = 45 , N = 40 :
+Gauss: 60076[ms]
+LU: 12250[ms]
+Gauss (Banda): 235[ms]
+LU (Banda): 211[ms]
+M = 45 , N = 45 :
+Gauss: 84976[ms]
+LU: 17317[ms]
+Gauss (Banda): 312[ms]
+LU (Banda): 274[ms]
+M = 45 , N = 50 :
+Gauss: 117054[ms]
+LU: 23726[ms]
+Gauss (Banda): 417[ms]
+LU (Banda): 362[ms]
+M = 45 , N = 55 :
+Gauss: >120000 [ms]
+LU: 32483[ms]
+Gauss (Banda): 552[ms]
+LU (Banda): 523[ms]
+M = 45 , N = 60 :
+Gauss: >120000 [ms]
+LU: 41445[ms]
+Gauss (Banda): 725[ms]
+LU (Banda): 689[ms]
+M = 45 , N = 65 :
+Gauss: >120000 [ms]
+LU: 52547[ms]
+Gauss (Banda): 904[ms]
+LU (Banda): 786[ms]
+M = 45 , N = 70 :
+Gauss: >120000 [ms]
+LU: 66082[ms]
+Gauss (Banda): 1094[ms]
+LU (Banda): 950[ms]
+M = 45 , N = 75 :
+Gauss: >120000 [ms]
+LU: 81277[ms]
+Gauss (Banda): 1267[ms]
+LU (Banda): 1065[ms]
+M = 45 , N = 80 :
+Gauss: >120000 [ms]
+LU: 100992[ms]
+Gauss (Banda): 1534[ms]
+LU (Banda): 1255[ms]
+M = 45 , N = 85 :
+Gauss: >120000 [ms]
+LU: 118693[ms]
+Gauss (Banda): 1819[ms]
+LU (Banda): 1440[ms]
+M = 45 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2092[ms]
+LU (Banda): 1734[ms]
+M = 45 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2438[ms]
+LU (Banda): 1823[ms]
+M = 45 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2836[ms]
+LU (Banda): 2126[ms]
+M = 50 , N = 5 :
+Gauss: 188[ms]
+LU: 39[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 3[ms]
+M = 50 , N = 10 :
+Gauss: 1338[ms]
+LU: 283[ms]
+Gauss (Banda): 10[ms]
+LU (Banda): 14[ms]
+M = 50 , N = 15 :
+Gauss: 4427[ms]
+LU: 936[ms]
+Gauss (Banda): 28[ms]
+LU (Banda): 35[ms]
+M = 50 , N = 20 :
+Gauss: 10558[ms]
+LU: 2184[ms]
+Gauss (Banda): 52[ms]
+LU (Banda): 60[ms]
+M = 50 , N = 25 :
+Gauss: 20525[ms]
+LU: 4245[ms]
+Gauss (Banda): 87[ms]
+LU (Banda): 92[ms]
+M = 50 , N = 30 :
+Gauss: 35284[ms]
+LU: 7253[ms]
+Gauss (Banda): 134[ms]
+LU (Banda): 138[ms]
+M = 50 , N = 35 :
+Gauss: 55857[ms]
+LU: 11394[ms]
+Gauss (Banda): 195[ms]
+LU (Banda): 192[ms]
+M = 50 , N = 40 :
+Gauss: 83321[ms]
+LU: 16954[ms]
+Gauss (Banda): 271[ms]
+LU (Banda): 250[ms]
+M = 50 , N = 45 :
+Gauss: 119712[ms]
+LU: 24188[ms]
+Gauss (Banda): 382[ms]
+LU (Banda): 341[ms]
+M = 50 , N = 50 :
+Gauss: >120000 [ms]
+LU: 34082[ms]
+Gauss (Banda): 514[ms]
+LU (Banda): 514[ms]
+M = 50 , N = 55 :
+Gauss: >120000 [ms]
+LU: 45585[ms]
+Gauss (Banda): 647[ms]
+LU (Banda): 558[ms]
+M = 50 , N = 60 :
+Gauss: >120000 [ms]
+LU: 60257[ms]
+Gauss (Banda): 797[ms]
+LU (Banda): 784[ms]
+M = 50 , N = 65 :
+Gauss: >120000 [ms]
+LU: 73543[ms]
+Gauss (Banda): 1008[ms]
+LU (Banda): 959[ms]
+M = 50 , N = 70 :
+Gauss: >120000 [ms]
+LU: 92112[ms]
+Gauss (Banda): 1255[ms]
+LU (Banda): 1145[ms]
+M = 50 , N = 75 :
+Gauss: >120000 [ms]
+LU: 116141[ms]
+Gauss (Banda): 1507[ms]
+LU (Banda): 1325[ms]
+M = 50 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1780[ms]
+LU (Banda): 1545[ms]
+M = 50 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2085[ms]
+LU (Banda): 1833[ms]
+M = 50 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2441[ms]
+LU (Banda): 2031[ms]
+M = 50 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2845[ms]
+LU (Banda): 2330[ms]
+M = 50 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3325[ms]
+LU (Banda): 2735[ms]
+M = 55 , N = 5 :
+Gauss: 244[ms]
+LU: 54[ms]
+Gauss (Banda): 2[ms]
+LU (Banda): 3[ms]
+M = 55 , N = 10 :
+Gauss: 1789[ms]
+LU: 379[ms]
+Gauss (Banda): 14[ms]
+LU (Banda): 19[ms]
+M = 55 , N = 15 :
+Gauss: 7580[ms]
+LU: 1238[ms]
+Gauss (Banda): 32[ms]
+LU (Banda): 40[ms]
+M = 55 , N = 20 :
+Gauss: 14217[ms]
+LU: 2971[ms]
+Gauss (Banda): 62[ms]
+LU (Banda): 73[ms]
+M = 55 , N = 25 :
+Gauss: 27596[ms]
+LU: 5677[ms]
+Gauss (Banda): 102[ms]
+LU (Banda): 117[ms]
+M = 55 , N = 30 :
+Gauss: 47488[ms]
+LU: 9727[ms]
+Gauss (Banda): 158[ms]
+LU (Banda): 174[ms]
+M = 55 , N = 35 :
+Gauss: 74685[ms]
+LU: 15263[ms]
+Gauss (Banda): 230[ms]
+LU (Banda): 238[ms]
+M = 55 , N = 40 :
+Gauss: 112320[ms]
+LU: 22730[ms]
+Gauss (Banda): 326[ms]
+LU (Banda): 335[ms]
+M = 55 , N = 45 :
+Gauss: >120000 [ms]
+LU: 32716[ms]
+Gauss (Banda): 447[ms]
+LU (Banda): 478[ms]
+M = 55 , N = 50 :
+Gauss: >120000 [ms]
+LU: 46093[ms]
+Gauss (Banda): 572[ms]
+LU (Banda): 593[ms]
+M = 55 , N = 55 :
+Gauss: >120000 [ms]
+LU: 62746[ms]
+Gauss (Banda): 732[ms]
+LU (Banda): 785[ms]
+M = 55 , N = 60 :
+Gauss: >120000 [ms]
+LU: 79003[ms]
+Gauss (Banda): 980[ms]
+LU (Banda): 1006[ms]
+M = 55 , N = 65 :
+Gauss: >120000 [ms]
+LU: 100293[ms]
+Gauss (Banda): 1229[ms]
+LU (Banda): 1182[ms]
+M = 55 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1398[ms]
+LU (Banda): 1507[ms]
+M = 55 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1794[ms]
+LU (Banda): 1623[ms]
+M = 55 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2127[ms]
+LU (Banda): 1915[ms]
+M = 55 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2474[ms]
+LU (Banda): 2320[ms]
+M = 55 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2895[ms]
+LU (Banda): 2525[ms]
+M = 55 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3332[ms]
+LU (Banda): 3047[ms]
+M = 55 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3810[ms]
+LU (Banda): 3347[ms]
+M = 60 , N = 5 :
+Gauss: 324[ms]
+LU: 65[ms]
+Gauss (Banda): 3[ms]
+LU (Banda): 5[ms]
+M = 60 , N = 10 :
+Gauss: 2341[ms]
+LU: 488[ms]
+Gauss (Banda): 16[ms]
+LU (Banda): 22[ms]
+M = 60 , N = 15 :
+Gauss: 7820[ms]
+LU: 1635[ms]
+Gauss (Banda): 38[ms]
+LU (Banda): 49[ms]
+M = 60 , N = 20 :
+Gauss: 18574[ms]
+LU: 3852[ms]
+Gauss (Banda): 73[ms]
+LU (Banda): 87[ms]
+M = 60 , N = 25 :
+Gauss: 36055[ms]
+LU: 7384[ms]
+Gauss (Banda): 121[ms]
+LU (Banda): 139[ms]
+M = 60 , N = 30 :
+Gauss: 62128[ms]
+LU: 12664[ms]
+Gauss (Banda): 183[ms]
+LU (Banda): 205[ms]
+M = 60 , N = 35 :
+Gauss: 98262[ms]
+LU: 20026[ms]
+Gauss (Banda): 267[ms]
+LU (Banda): 287[ms]
+M = 60 , N = 40 :
+Gauss: >120000 [ms]
+LU: 30704[ms]
+Gauss (Banda): 382[ms]
+LU (Banda): 394[ms]
+M = 60 , N = 45 :
+Gauss: >120000 [ms]
+LU: 44459[ms]
+Gauss (Banda): 507[ms]
+LU (Banda): 551[ms]
+M = 60 , N = 50 :
+Gauss: >120000 [ms]
+LU: 62290[ms]
+Gauss (Banda): 675[ms]
+LU (Banda): 736[ms]
+M = 60 , N = 55 :
+Gauss: >120000 [ms]
+LU: 85017[ms]
+Gauss (Banda): 879[ms]
+LU (Banda): 926[ms]
+M = 60 , N = 60 :
+Gauss: >120000 [ms]
+LU: 112322[ms]
+Gauss (Banda): 1082[ms]
+LU (Banda): 1262[ms]
+M = 60 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1341[ms]
+LU (Banda): 1473[ms]
+M = 60 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1645[ms]
+LU (Banda): 1622[ms]
+M = 60 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2043[ms]
+LU (Banda): 2046[ms]
+M = 60 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2438[ms]
+LU (Banda): 2350[ms]
+M = 60 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2836[ms]
+LU (Banda): 2761[ms]
+M = 60 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3382[ms]
+LU (Banda): 3191[ms]
+M = 60 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3805[ms]
+LU (Banda): 3613[ms]
+M = 60 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4345[ms]
+LU (Banda): 4182[ms]
+M = 65 , N = 5 :
+Gauss: 396[ms]
+LU: 86[ms]
+Gauss (Banda): 4[ms]
+LU (Banda): 6[ms]
+M = 65 , N = 10 :
+Gauss: 2993[ms]
+LU: 624[ms]
+Gauss (Banda): 18[ms]
+LU (Banda): 26[ms]
+M = 65 , N = 15 :
+Gauss: 10029[ms]
+LU: 2082[ms]
+Gauss (Banda): 44[ms]
+LU (Banda): 58[ms]
+M = 65 , N = 20 :
+Gauss: 23780[ms]
+LU: 4890[ms]
+Gauss (Banda): 85[ms]
+LU (Banda): 105[ms]
+M = 65 , N = 25 :
+Gauss: 46222[ms]
+LU: 9471[ms]
+Gauss (Banda): 138[ms]
+LU (Banda): 170[ms]
+M = 65 , N = 30 :
+Gauss: 79319[ms]
+LU: 16191[ms]
+Gauss (Banda): 213[ms]
+LU (Banda): 249[ms]
+M = 65 , N = 35 :
+Gauss: >120000 [ms]
+LU: 25683[ms]
+Gauss (Banda): 328[ms]
+LU (Banda): 364[ms]
+M = 65 , N = 40 :
+Gauss: >120000 [ms]
+LU: 39961[ms]
+Gauss (Banda): 465[ms]
+LU (Banda): 526[ms]
+M = 65 , N = 45 :
+Gauss: >120000 [ms]
+LU: 59344[ms]
+Gauss (Banda): 647[ms]
+LU (Banda): 769[ms]
+M = 65 , N = 50 :
+Gauss: >120000 [ms]
+LU: 83368[ms]
+Gauss (Banda): 835[ms]
+LU (Banda): 1005[ms]
+M = 65 , N = 55 :
+Gauss: >120000 [ms]
+LU: 111786[ms]
+Gauss (Banda): 1010[ms]
+LU (Banda): 1210[ms]
+M = 65 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1301[ms]
+LU (Banda): 1499[ms]
+M = 65 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1688[ms]
+LU (Banda): 2001[ms]
+M = 65 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1911[ms]
+LU (Banda): 2095[ms]
+M = 65 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2309[ms]
+LU (Banda): 2440[ms]
+M = 65 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2712[ms]
+LU (Banda): 2952[ms]
+M = 65 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3269[ms]
+LU (Banda): 3372[ms]
+M = 65 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3798[ms]
+LU (Banda): 3920[ms]
+M = 65 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4416[ms]
+LU (Banda): 4543[ms]
+M = 65 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5104[ms]
+LU (Banda): 5365[ms]
+M = 70 , N = 5 :
+Gauss: 494[ms]
+LU: 107[ms]
+Gauss (Banda): 4[ms]
+LU (Banda): 9[ms]
+M = 70 , N = 10 :
+Gauss: 3754[ms]
+LU: 780[ms]
+Gauss (Banda): 22[ms]
+LU (Banda): 31[ms]
+M = 70 , N = 15 :
+Gauss: 12664[ms]
+LU: 2629[ms]
+Gauss (Banda): 50[ms]
+LU (Banda): 67[ms]
+M = 70 , N = 20 :
+Gauss: 29858[ms]
+LU: 6136[ms]
+Gauss (Banda): 97[ms]
+LU (Banda): 129[ms]
+M = 70 , N = 25 :
+Gauss: 58063[ms]
+LU: 11919[ms]
+Gauss (Banda): 159[ms]
+LU (Banda): 207[ms]
+M = 70 , N = 30 :
+Gauss: 100329[ms]
+LU: 20465[ms]
+Gauss (Banda): 245[ms]
+LU (Banda): 300[ms]
+M = 70 , N = 35 :
+Gauss: >120000 [ms]
+LU: 35198[ms]
+Gauss (Banda): 404[ms]
+LU (Banda): 473[ms]
+M = 70 , N = 40 :
+Gauss: >120000 [ms]
+LU: 52909[ms]
+Gauss (Banda): 549[ms]
+LU (Banda): 672[ms]
+M = 70 , N = 45 :
+Gauss: >120000 [ms]
+LU: 75810[ms]
+Gauss (Banda): 703[ms]
+LU (Banda): 883[ms]
+M = 70 , N = 50 :
+Gauss: >120000 [ms]
+LU: 109034[ms]
+Gauss (Banda): 946[ms]
+LU (Banda): 1212[ms]
+M = 70 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1247[ms]
+LU (Banda): 1589[ms]
+M = 70 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1548[ms]
+LU (Banda): 1967[ms]
+M = 70 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1817[ms]
+LU (Banda): 2189[ms]
+M = 70 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2213[ms]
+LU (Banda): 2737[ms]
+M = 70 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2589[ms]
+LU (Banda): 2964[ms]
+M = 70 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3247[ms]
+LU (Banda): 3758[ms]
+M = 70 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3674[ms]
+LU (Banda): 4170[ms]
+M = 70 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4287[ms]
+LU (Banda): 4485[ms]
+M = 70 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5119[ms]
+LU (Banda): 5520[ms]
+M = 70 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 6027[ms]
+LU (Banda): 6636[ms]
+M = 75 , N = 5 :
+Gauss: 616[ms]
+LU: 129[ms]
+Gauss (Banda): 4[ms]
+LU (Banda): 8[ms]
+M = 75 , N = 10 :
+Gauss: 4591[ms]
+LU: 965[ms]
+Gauss (Banda): 25[ms]
+LU (Banda): 35[ms]
+M = 75 , N = 15 :
+Gauss: 15657[ms]
+LU: 3217[ms]
+Gauss (Banda): 58[ms]
+LU (Banda): 83[ms]
+M = 75 , N = 20 :
+Gauss: 36850[ms]
+LU: 7604[ms]
+Gauss (Banda): 109[ms]
+LU (Banda): 145[ms]
+M = 75 , N = 25 :
+Gauss: 71450[ms]
+LU: 14626[ms]
+Gauss (Banda): 180[ms]
+LU (Banda): 241[ms]
+M = 75 , N = 30 :
+Gauss: >120000 [ms]
+LU: 25683[ms]
+Gauss (Banda): 304[ms]
+LU (Banda): 383[ms]
+M = 75 , N = 35 :
+Gauss: >120000 [ms]
+LU: 42738[ms]
+Gauss (Banda): 420[ms]
+LU (Banda): 552[ms]
+M = 75 , N = 40 :
+Gauss: >120000 [ms]
+LU: 65857[ms]
+Gauss (Banda): 657[ms]
+LU (Banda): 807[ms]
+M = 75 , N = 45 :
+Gauss: >120000 [ms]
+LU: 97451[ms]
+Gauss (Banda): 787[ms]
+LU (Banda): 1060[ms]
+M = 75 , N = 50 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1118[ms]
+LU (Banda): 1435[ms]
+M = 75 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1376[ms]
+LU (Banda): 1815[ms]
+M = 75 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1678[ms]
+LU (Banda): 2435[ms]
+M = 75 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2122[ms]
+LU (Banda): 3427[ms]
+M = 75 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2440[ms]
+LU (Banda): 3081[ms]
+M = 75 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3170[ms]
+LU (Banda): 5256[ms]
+M = 75 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3715[ms]
+LU (Banda): 4837[ms]
+M = 75 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4508[ms]
+LU (Banda): 6895[ms]
+M = 75 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5717[ms]
+LU (Banda): 8457[ms]
+M = 75 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 6483[ms]
+LU (Banda): 9795[ms]
+M = 75 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 8137[ms]
+LU (Banda): 11667[ms]
+M = 80 , N = 5 :
+Gauss: 748[ms]
+LU: 157[ms]
+Gauss (Banda): 5[ms]
+LU (Banda): 10[ms]
+M = 80 , N = 10 :
+Gauss: 5606[ms]
+LU: 1183[ms]
+Gauss (Banda): 30[ms]
+LU (Banda): 41[ms]
+M = 80 , N = 15 :
+Gauss: 19098[ms]
+LU: 3958[ms]
+Gauss (Banda): 67[ms]
+LU (Banda): 93[ms]
+M = 80 , N = 20 :
+Gauss: 45161[ms]
+LU: 9258[ms]
+Gauss (Banda): 126[ms]
+LU (Banda): 179[ms]
+M = 80 , N = 25 :
+Gauss: 87500[ms]
+LU: 17894[ms]
+Gauss (Banda): 215[ms]
+LU (Banda): 331[ms]
+M = 80 , N = 30 :
+Gauss: >120000 [ms]
+LU: 32984[ms]
+Gauss (Banda): 363[ms]
+LU (Banda): 476[ms]
+M = 80 , N = 35 :
+Gauss: >120000 [ms]
+LU: 58921[ms]
+Gauss (Banda): 533[ms]
+LU (Banda): 757[ms]
+M = 80 , N = 40 :
+Gauss: >120000 [ms]
+LU: 90803[ms]
+Gauss (Banda): 780[ms]
+LU (Banda): 1102[ms]
+M = 80 , N = 45 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 992[ms]
+LU (Banda): 1360[ms]
+M = 80 , N = 50 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1259[ms]
+LU (Banda): 1859[ms]
+M = 80 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1653[ms]
+LU (Banda): 2726[ms]
+M = 80 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2036[ms]
+LU (Banda): 3843[ms]
+M = 80 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2548[ms]
+LU (Banda): 4528[ms]
+M = 80 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3328[ms]
+LU (Banda): 6324[ms]
+M = 80 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3808[ms]
+LU (Banda): 5443[ms]
+M = 80 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4557[ms]
+LU (Banda): 7715[ms]
+M = 80 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5266[ms]
+LU (Banda): 7759[ms]
+M = 80 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 6297[ms]
+LU (Banda): 10958[ms]
+M = 80 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 7624[ms]
+LU (Banda): 12985[ms]
+M = 80 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 9259[ms]
+LU (Banda): 16648[ms]
+M = 85 , N = 5 :
+Gauss: 878[ms]
+LU: 184[ms]
+Gauss (Banda): 5[ms]
+LU (Banda): 11[ms]
+M = 85 , N = 10 :
+Gauss: 6754[ms]
+LU: 1412[ms]
+Gauss (Banda): 32[ms]
+LU (Banda): 50[ms]
+M = 85 , N = 15 :
+Gauss: 23001[ms]
+LU: 4748[ms]
+Gauss (Banda): 77[ms]
+LU (Banda): 120[ms]
+M = 85 , N = 20 :
+Gauss: 62175[ms]
+LU: 11202[ms]
+Gauss (Banda): 149[ms]
+LU (Banda): 228[ms]
+M = 85 , N = 25 :
+Gauss: 105843[ms]
+LU: 21471[ms]
+Gauss (Banda): 238[ms]
+LU (Banda): 314[ms]
+M = 85 , N = 30 :
+Gauss: >120000 [ms]
+LU: 40964[ms]
+Gauss (Banda): 429[ms]
+LU (Banda): 565[ms]
+M = 85 , N = 35 :
+Gauss: >120000 [ms]
+LU: 68847[ms]
+Gauss (Banda): 619[ms]
+LU (Banda): 838[ms]
+M = 85 , N = 40 :
+Gauss: >120000 [ms]
+LU: 111452[ms]
+Gauss (Banda): 858[ms]
+LU (Banda): 1340[ms]
+M = 85 , N = 45 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1057[ms]
+LU (Banda): 1651[ms]
+M = 85 , N = 50 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1581[ms]
+LU (Banda): 2857[ms]
+M = 85 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1896[ms]
+LU (Banda): 3763[ms]
+M = 85 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2247[ms]
+LU (Banda): 4969[ms]
+M = 85 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2885[ms]
+LU (Banda): 8238[ms]
+M = 85 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3527[ms]
+LU (Banda): 8631[ms]
+M = 85 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4179[ms]
+LU (Banda): 10050[ms]
+M = 85 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5361[ms]
+LU (Banda): 11703[ms]
+M = 85 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 7013[ms]
+LU (Banda): 11554[ms]
+M = 85 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 8060[ms]
+LU (Banda): 14149[ms]
+M = 85 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 9537[ms]
+LU (Banda): 16949[ms]
+M = 85 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 15850[ms]
+LU (Banda): 28911[ms]
+M = 90 , N = 5 :
+Gauss: 1044[ms]
+LU: 220[ms]
+Gauss (Banda): 7[ms]
+LU (Banda): 14[ms]
+M = 90 , N = 10 :
+Gauss: 8052[ms]
+LU: 1669[ms]
+Gauss (Banda): 37[ms]
+LU (Banda): 56[ms]
+M = 90 , N = 15 :
+Gauss: 27365[ms]
+LU: 5663[ms]
+Gauss (Banda): 87[ms]
+LU (Banda): 137[ms]
+M = 90 , N = 20 :
+Gauss: 64774[ms]
+LU: 13285[ms]
+Gauss (Banda): 171[ms]
+LU (Banda): 296[ms]
+M = 90 , N = 25 :
+Gauss: >120000 [ms]
+LU: 28191[ms]
+Gauss (Banda): 269[ms]
+LU (Banda): 396[ms]
+M = 90 , N = 30 :
+Gauss: >120000 [ms]
+LU: 50084[ms]
+Gauss (Banda): 498[ms]
+LU (Banda): 685[ms]
+M = 90 , N = 35 :
+Gauss: >120000 [ms]
+LU: 86824[ms]
+Gauss (Banda): 671[ms]
+LU (Banda): 1178[ms]
+M = 90 , N = 40 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 925[ms]
+LU (Banda): 1404[ms]
+M = 90 , N = 45 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1267[ms]
+LU (Banda): 2299[ms]
+M = 90 , N = 50 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1739[ms]
+LU (Banda): 3319[ms]
+M = 90 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2163[ms]
+LU (Banda): 5310[ms]
+M = 90 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2641[ms]
+LU (Banda): 7535[ms]
+M = 90 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3683[ms]
+LU (Banda): 10882[ms]
+M = 90 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4377[ms]
+LU (Banda): 10962[ms]
+M = 90 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5252[ms]
+LU (Banda): 14173[ms]
+M = 90 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 6868[ms]
+LU (Banda): 14413[ms]
+M = 90 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 8509[ms]
+LU (Banda): 16022[ms]
+M = 90 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 10218[ms]
+LU (Banda): 17623[ms]
+M = 90 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 17713[ms]
+LU (Banda): 32567[ms]
+M = 90 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 18681[ms]
+LU (Banda): 35088[ms]
+M = 95 , N = 5 :
+Gauss: 1213[ms]
+LU: 255[ms]
+Gauss (Banda): 8[ms]
+LU (Banda): 15[ms]
+M = 95 , N = 10 :
+Gauss: 9500[ms]
+LU: 2003[ms]
+Gauss (Banda): 45[ms]
+LU (Banda): 79[ms]
+M = 95 , N = 15 :
+Gauss: 32153[ms]
+LU: 6767[ms]
+Gauss (Banda): 105[ms]
+LU (Banda): 197[ms]
+M = 95 , N = 20 :
+Gauss: 84899[ms]
+LU: 15782[ms]
+Gauss (Banda): 231[ms]
+LU (Banda): 434[ms]
+M = 95 , N = 25 :
+Gauss: >120000 [ms]
+LU: 33205[ms]
+Gauss (Banda): 301[ms]
+LU (Banda): 475[ms]
+M = 95 , N = 30 :
+Gauss: >120000 [ms]
+LU: 64887[ms]
+Gauss (Banda): 499[ms]
+LU (Banda): 904[ms]
+M = 95 , N = 35 :
+Gauss: >120000 [ms]
+LU: 113040[ms]
+Gauss (Banda): 845[ms]
+LU (Banda): 1508[ms]
+M = 95 , N = 40 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1062[ms]
+LU (Banda): 1976[ms]
+M = 95 , N = 45 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1605[ms]
+LU (Banda): 5027[ms]
+M = 95 , N = 50 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2066[ms]
+LU (Banda): 5789[ms]
+M = 95 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2720[ms]
+LU (Banda): 7972[ms]
+M = 95 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3991[ms]
+LU (Banda): 13459[ms]
+M = 95 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 4987[ms]
+LU (Banda): 16552[ms]
+M = 95 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 6667[ms]
+LU (Banda): 20256[ms]
+M = 95 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 8091[ms]
+LU (Banda): 19975[ms]
+M = 95 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 10153[ms]
+LU (Banda): 18965[ms]
+M = 95 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 11715[ms]
+LU (Banda): 23317[ms]
+M = 95 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 17154[ms]
+LU (Banda): 34327[ms]
+M = 95 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 17611[ms]
+LU (Banda): 34026[ms]
+M = 95 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 26148[ms]
+LU (Banda): 45814[ms]
+M = 100 , N = 5 :
+Gauss: 1403[ms]
+LU: 298[ms]
+Gauss (Banda): 11[ms]
+LU (Banda): 21[ms]
+M = 100 , N = 10 :
+Gauss: 11081[ms]
+LU: 2323[ms]
+Gauss (Banda): 51[ms]
+LU (Banda): 93[ms]
+M = 100 , N = 15 :
+Gauss: 37379[ms]
+LU: 7881[ms]
+Gauss (Banda): 129[ms]
+LU (Banda): 257[ms]
+M = 100 , N = 20 :
+Gauss: 88826[ms]
+LU: 18415[ms]
+Gauss (Banda): 276[ms]
+LU (Banda): 578[ms]
+M = 100 , N = 25 :
+Gauss: >120000 [ms]
+LU: 41695[ms]
+Gauss (Banda): 341[ms]
+LU (Banda): 621[ms]
+M = 100 , N = 30 :
+Gauss: >120000 [ms]
+LU: 78363[ms]
+Gauss (Banda): 581[ms]
+LU (Banda): 1023[ms]
+M = 100 , N = 35 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 920[ms]
+LU (Banda): 1631[ms]
+M = 100 , N = 40 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1216[ms]
+LU (Banda): 2608[ms]
+M = 100 , N = 45 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 1672[ms]
+LU (Banda): 3997[ms]
+M = 100 , N = 50 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 2591[ms]
+LU (Banda): 8021[ms]
+M = 100 , N = 55 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 3630[ms]
+LU (Banda): 12293[ms]
+M = 100 , N = 60 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 5127[ms]
+LU (Banda): 17034[ms]
+M = 100 , N = 65 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 6655[ms]
+LU (Banda): 26324[ms]
+M = 100 , N = 70 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 8988[ms]
+LU (Banda): 27269[ms]
+M = 100 , N = 75 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 9778[ms]
+LU (Banda): 24108[ms]
+M = 100 , N = 80 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 12573[ms]
+LU (Banda): 27293[ms]
+M = 100 , N = 85 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 23039[ms]
+LU (Banda): 50741[ms]
+M = 100 , N = 90 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 18873[ms]
+LU (Banda): 58079[ms]
+M = 100 , N = 95 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 24500[ms]
+LU (Banda): 54456[ms]
+M = 100 , N = 100 :
+Gauss: >120000 [ms]
+LU: >120000 [ms]
+Gauss (Banda): 28152[ms]
+LU (Banda): 55293[ms]
